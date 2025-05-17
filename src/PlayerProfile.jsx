@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, onBack }) {
   const playerRank = rankings.find(r => r.playerId === player.playerId);
@@ -9,6 +9,12 @@ function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, 
 
   const seasonData = seasonStats["2024-25"]?.[fullName];
   const teamAbbrev = seasonData?.["Season Averages"]?.team || "NA";
+  const inchesToFeetAndInches = (inches) => {
+    const ft = Math.floor(inches / 12);
+    const inch = Math.round(inches % 12);
+    return `${ft}'${inch}" (${inches}")`;
+  };
+
 
   const renderStatsTable = (headers, rowData) => (
     <table style={{ width: '100%', borderCollapse: 'collapse', marginBottom: '1.5rem', textAlign: 'center' }}>
@@ -29,6 +35,26 @@ function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, 
     </table>
   );
 
+  const [showMeasurements, setShowMeasurements] = useState(false);
+
+const measurementLabels = {
+  heightNoShoes: "Height (no shoes)",
+  heightShoes: "Height (shoes)",
+  wingspan: "Wingspan",
+  reach: "Reach",
+  maxVertical: "Max Vertical",
+  noStepVertical: "No Step Vertical",
+  weight: "Weight",
+  bodyFat: "Bodyfat",
+  handLength: "Hand Length",
+  handWidth: "Hand Width",
+  agility: "Agility",
+  sprint: "Sprint",
+  shuttleLeft: "Shuttle Left",
+  shuttleRight: "Shuttle Right",
+  shuttleBest: "Shuttle Best",
+};
+
   return (
     <div style={{ padding: '2rem' }}>
       <button onClick={onBack} style={{ marginBottom: '1rem' }}>← Back to Big Board</button>
@@ -36,8 +62,8 @@ function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, 
       <h2>{player.firstName} {player.lastName}</h2>
       <p><strong>Team:</strong> {player.currentTeam}</p>
       <p><strong>League:</strong> {player.league}</p>
-      <p><strong>Height:</strong> {player.height} in</p>
-      <p><strong>Weight:</strong> {player.weight} lbs</p>
+        <p><strong>Height:</strong> {inchesToFeetAndInches(player.height)}</p>
+        <p><strong>Weight:</strong> {player.weight} lbs</p>
 
       {player.photoUrl && (
         <img
@@ -60,21 +86,70 @@ function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, 
         <p>No scout rankings available.</p>
       )}
 
-      <h3>Measurements</h3>
-      {playerMeas ? (
-        <ul>
-          {Object.entries(playerMeas).map(([key, value]) => {
-            if (key === 'playerId') return null;
-            return (
-              <li key={key}>
-                {key}: {value !== null ? value : 'N/A'}
-              </li>
-            );
-          })}
-        </ul>
-      ) : (
-        <p>No measurements available.</p>
-      )}
+
+        <h3
+  style={{ cursor: 'pointer', userSelect: 'none', color: '#007bff' }}
+  onClick={() => setShowMeasurements(!showMeasurements)}
+>
+  Measurements {showMeasurements ? '▲' : '▼'}
+</h3>
+
+{showMeasurements && playerMeas ? (
+  <ul>
+    {Object.entries(playerMeas).map(([key, value]) => {
+      if (key === 'playerId' || value === null) return null;
+
+      const measurementLabels = {
+        heightNoShoes: "Height (no shoes)",
+        heightShoes: "Height (shoes)",
+        wingspan: "Wingspan",
+        reach: "Reach",
+        maxVertical: "Max Vertical",
+        noStepVertical: "No Step Vertical",
+        weight: "Weight",
+        bodyFat: "Bodyfat",
+        handLength: "Hand Length",
+        handWidth: "Hand Width",
+        agility: "Agility",
+        sprint: "Sprint",
+        shuttleLeft: "Shuttle Left",
+        shuttleRight: "Shuttle Right",
+        shuttleBest: "Shuttle Best",
+      };
+
+      const inchesToFeetAndInches = (inches) => {
+        const ft = Math.floor(inches / 12);
+        const inch = Math.round(inches % 12);
+        return `${ft}'${inch}" (${inches}")`;
+      };
+
+      const timeKeys = ["agility", "sprint", "shuttleLeft", "shuttleRight", "shuttleBest"];
+      const inchKeys = ["handLength", "handWidth"];
+      const heightKeys = ["heightNoShoes", "heightShoes", "wingspan", "reach", "maxVertical", "noStepVertical"];
+
+      let formattedValue = value;
+
+      if (heightKeys.includes(key)) {
+        formattedValue = inchesToFeetAndInches(value);
+      } else if (inchKeys.includes(key)) {
+        formattedValue = `${value}"`;
+      } else if (key === "weight") {
+        formattedValue = `${value} lbs`;
+      } else if (timeKeys.includes(key)) {
+        formattedValue = `${value} s`;
+      }
+
+      return (
+        <li key={key}>
+          <strong>{measurementLabels[key] || key}:</strong> {formattedValue}
+        </li>
+      );
+    })}
+  </ul>
+) : !playerMeas && showMeasurements ? (
+  <p>No measurements available.</p>
+) : null}
+
 
       <h3>Season Stats</h3>
       {seasonData ? (
