@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import draftData from './data/intern_project_data.json';
+import gameLogs from './data/all_game_logs.json';
+import seasonStats from './data/season_stats.json';
 import PlayerProfile from './PlayerProfile';
 
 function App() {
@@ -7,7 +9,6 @@ function App() {
   const players = draftData.bio;
   const rankings = draftData.scoutRankings;
   const measurements = draftData.measurements;
-  const gameLogs = draftData.game_logs; // ✅ FIXED LINE HERE
 
   if (selectedPlayer) {
     return (
@@ -16,6 +17,7 @@ function App() {
         rankings={rankings}
         measurements={measurements}
         gameLogs={gameLogs}
+        seasonStats={seasonStats}
         onBack={() => setSelectedPlayer(null)}
       />
     );
