@@ -30,7 +30,7 @@ function BigBoard() {
   return (
       <div style={{padding: '2rem'}}>
           <img
-              src="/team_logos/MAVS.png"
+              src="/nba_team_logos/MAVS.png"
               alt="Mavs Logo"
               style={{
                   position: 'fixed',

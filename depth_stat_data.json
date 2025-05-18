@@ -1,0 +1,6557 @@
+{
+  "boston-celtics": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Derrick White",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jrue Holiday",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Payton Pritchard",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "JD Davison",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Jrue Holiday",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Payton Pritchard",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jaylen Brown",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Baylor Scheierman",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Derrick White",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jordan Walsh",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "JD Davison",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Jaylen Brown",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Sam Hauser",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Baylor Scheierman",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jordan Walsh",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Torrey Craig",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Drew Peterson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Miles Norris",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jayson Tatum",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Al Horford",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Sam Hauser",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Kristaps Porzingis",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Xavier Tillman",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Torrey Craig",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jordan Walsh",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Drew Peterson",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Miles Norris",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Jayson Tatum",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Kristaps Porzingis",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Luke Kornet",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Al Horford",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Neemias Queta",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Xavier Tillman",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Torrey Craig",
+        "injuries": []
+      }
+    ]
+  },
+  "brooklyn-nets": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "D'Angelo Russell",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Keon Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Reece Beekman",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Tyson Etienne",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Cam Thomas",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "De'Anthony Melton",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Keon Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dariq Whitehead",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Tyrese Martin",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jalen Wilson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Ziaire Williams",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "D'Angelo Russell",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Tyson Etienne",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Tosan Evbuomwan",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Cam Thomas",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "De'Anthony Melton",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Ziaire Williams",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Maxwell Lewis",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Tosan Evbuomwan",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jalen Wilson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Cameron Johnson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Dariq Whitehead",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Tyrese Martin",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Noah Clowney",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Cam Thomas",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "De'Anthony Melton",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Cameron Johnson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Trendon Watford",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Tosan Evbuomwan",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jalen Wilson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Drew Timme",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Maxwell Lewis",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Ziaire Williams",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Dariq Whitehead",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Noah Clowney",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Nic Claxton",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Day'Ron Sharpe",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Drew Timme",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Trendon Watford",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Noah Clowney",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "new-york-knicks": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Jalen Brunson",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Miles McBride",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Cameron Payne",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Delon Wright",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Tyler Kolek",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Mikal Bridges",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Cameron Payne",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Landry Shamet",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Miles McBride",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Pacome Dadiet",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Delon Wright",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Josh Hart",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "MarJon Beauchamp",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Josh Hart",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Landry Shamet",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Mikal Bridges",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "OG Anunoby",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Pacome Dadiet",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "MarJon Beauchamp",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kevin McCullar Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Anton Watson",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "OG Anunoby",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Josh Hart",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Precious Achiuwa",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Mikal Bridges",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "P.J. Tucker",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "MarJon Beauchamp",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Anton Watson",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Karl-Anthony Towns",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Mitchell Robinson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Precious Achiuwa",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Ariel Hukporti",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "P.J. Tucker",
+        "injuries": []
+      }
+    ]
+  },
+  "philadelphia-76ers": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Jared Butler",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Kyle Lowry",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Jeff Dowtin Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Quentin Grimes",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jalen Hood-Schifino",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Tyrese Maxey",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Jared McCain",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Quentin Grimes",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Lonnie Walker IV",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Kelly Oubre Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Kyle Lowry",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Jared Butler",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jeff Dowtin Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Ricky Council IV",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jalen Hood-Schifino",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Jared McCain",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Paul George",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 11,
+        "name": "Eric Gordon",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Kelly Oubre Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Justin Edwards",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Lonnie Walker IV",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Ricky Council IV",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Marcus Bagley",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Quentin Grimes",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Paul George",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Eric Gordon",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Guerschon Yabusele",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Ricky Council IV",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Marcus Bagley",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Justin Edwards",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Alex Reese",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Isaiah Mobley",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kelly Oubre Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Paul George",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Adem Bona",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Guerschon Yabusele",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Isaiah Mobley",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Alex Reese",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Andre Drummond",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Joel Embiid",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "toronto-raptors": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Immanuel Quickley",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jamal Shead",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Scottie Barnes",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "RJ Barrett",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "A.J. Lawson",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Ja'Kobe Walter",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Ochai Agbaji",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "RJ Barrett",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "A.J. Lawson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jared Rhoden",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Jamison Battle",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Garrett Temple",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Immanuel Quickley",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Scottie Barnes",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Brandon Ingram",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 11,
+        "name": "Gradey Dick",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "RJ Barrett",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jamison Battle",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Ochai Agbaji",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Ja'Kobe Walter",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Scottie Barnes",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "A.J. Lawson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jared Rhoden",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Garrett Temple",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Jonathan Mogbo",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Brandon Ingram",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 11,
+        "name": "Gradey Dick",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Scottie Barnes",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jonathan Mogbo",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Ochai Agbaji",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jared Rhoden",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Jamison Battle",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Colin Castleton",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Chris Boucher",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "RJ Barrett",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Brandon Ingram",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Ulrich Chomche",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Jakob Poeltl",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Jonathan Mogbo",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Colin Castleton",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Chris Boucher",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Ulrich Chomche",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "chicago-bulls": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Josh Giddey",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Tre Jones",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Coby White",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jevon Carter",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Talen Horton-Tucker",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Lonzo Ball",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Jahmir Young",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Ayo Dosunmu",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Lonzo Ball",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Kevin Huerter",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Coby White",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Dalen Terry",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Talen Horton-Tucker",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jevon Carter",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Ayo Dosunmu",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Coby White",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dalen Terry",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Julian Phillips",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Kevin Huerter",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Josh Giddey",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Patrick Williams",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Talen Horton-Tucker",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Matas Buzelis",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Emanuel Miller",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Ayo Dosunmu",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Matas Buzelis",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Patrick Williams",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Julian Phillips",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Dalen Terry",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Zach Collins",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Talen Horton-Tucker",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jalen Smith",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Emanuel Miller",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "E.J. Liddell",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Ayo Dosunmu",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Nikola Vucevic",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Zach Collins",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jalen Smith",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "E.J. Liddell",
+        "injuries": []
+      }
+    ]
+  },
+  "cleveland-cavaliers": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Darius Garland",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Ty Jerome",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Donovan Mitchell",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Craig Porter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Emoni Bates",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Donovan Mitchell",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Sam Merrill",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Max Strus",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Isaac Okoro",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jaylon Tyson",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Ty Jerome",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Javonte Green",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Craig Porter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Luke Travers",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Emoni Bates",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Max Strus",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "De'Andre Hunter",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Isaac Okoro",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Javonte Green",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Dean Wade",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jaylon Tyson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Chuma Okeke",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Luke Travers",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Emoni Bates",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Evan Mobley",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dean Wade",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "De'Andre Hunter",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Javonte Green",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Chuma Okeke",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Isaac Okoro",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Max Strus",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Nae'Qwan Tomlin",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Jarrett Allen",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Evan Mobley",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Tristan Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Chuma Okeke",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Dean Wade",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Nae'Qwan Tomlin",
+        "injuries": []
+      }
+    ]
+  },
+  "detroit-pistons": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Cade Cunningham",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dennis Schroder",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Marcus Sasser",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jaden Ivey",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Daniss Jenkins",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Tim Hardaway Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Malik Beasley",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Marcus Sasser",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Dennis Schroder",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Lindy Waters III",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Cade Cunningham",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jaden Ivey",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Daniss Jenkins",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Ausar Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Ronald Holland II",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Tim Hardaway Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Malik Beasley",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Simone Fontecchio",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Lindy Waters III",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Tobias Harris",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Bobi Klintman",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Cade Cunningham",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Ron Harper Jr.",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Tobias Harris",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Simone Fontecchio",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Lindy Waters III",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Ausar Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Ronald Holland II",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Bobi Klintman",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Isaiah Stewart",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Tim Hardaway Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Ron Harper Jr.",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Jalen Duren",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Isaiah Stewart",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Paul Reed",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Tolu Smith",
+        "injuries": []
+      }
+    ]
+  },
+  "indiana-pacers": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Tyrese Haliburton",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "T.J. McConnell",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Andrew Nembhard",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Ben Sheppard",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "RayJ Dennis",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Quenton Jackson",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Andrew Nembhard",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Bennedict Mathurin",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Ben Sheppard",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Aaron Nesmith",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Johnny Furphy",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Tyrese Haliburton",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Quenton Jackson",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Aaron Nesmith",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jarace Walker",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Bennedict Mathurin",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Johnny Furphy",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Ben Sheppard",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Pascal Siakam",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Quenton Jackson",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Pascal Siakam",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Obi Toppin",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jarace Walker",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Aaron Nesmith",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "James Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Enrique Freeman",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Myles Turner",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Thomas Bryant",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Obi Toppin",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Tony Bradley",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Pascal Siakam",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "James Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jarace Walker",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Isaiah Jackson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Enrique Freeman",
+        "injuries": []
+      }
+    ]
+  },
+  "milwaukee-bucks": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Kevin Porter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Ryan Rollins",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "AJ Green",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Andre Jackson Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jamaree Bouyea",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Damian Lillard",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Gary Trent Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "AJ Green",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Taurean Prince",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Andre Jackson Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Kevin Porter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Ryan Rollins",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Pat Connaughton",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Stanley Umude",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Jamaree Bouyea",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Kyle Kuzma",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Taurean Prince",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Gary Trent Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Andre Jackson Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Pat Connaughton",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Chris Livingston",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Tyler Smith",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Giannis Antetokounmpo",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Stanley Umude",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Giannis Antetokounmpo",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Bobby Portis",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Kyle Kuzma",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Taurean Prince",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Pat Connaughton",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Tyler Smith",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Chris Livingston",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Pete Nance",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Bobby Portis",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Brook Lopez",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jericho Sims",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Giannis Antetokounmpo",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Chris Livingston",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Tyler Smith",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Pete Nance",
+        "injuries": []
+      }
+    ]
+  },
+  "atlanta-hawks": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Trae Young",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Terance Mann",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Dyson Daniels",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Caris LeVert",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Vit Krejci",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Keaton Wallace",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kobe Bufkin",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Dyson Daniels",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Caris LeVert",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Vit Krejci",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Garrison Mathews",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Terance Mann",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Zaccharie Risacher",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Daeqwon Plowden",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Keaton Wallace",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Kobe Bufkin",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Zaccharie Risacher",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Vit Krejci",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Terance Mann",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Caris LeVert",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Georges Niang",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Garrison Mathews",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Dyson Daniels",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Daeqwon Plowden",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Jacob Toppin",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Jalen Johnson",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Mouhamed Gueye",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Georges Niang",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Zaccharie Risacher",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Dominick Barlow",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Onyeka Okongwu",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jacob Toppin",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Larry Nance Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Jalen Johnson",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Onyeka Okongwu",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dominick Barlow",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Mouhamed Gueye",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Clint Capela",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Larry Nance Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Jalen Johnson",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "charlotte-hornets": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "KJ Simpson",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Damion Baugh",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jaylen Sims",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Nick Smith Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Wendell Moore Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "LaMelo Ball",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Tre Mann",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Nick Smith Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Seth Curry",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Josh Green",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Josh Okogie",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Damion Baugh",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Wendell Moore Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jaylen Sims",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "DaQuan Jeffries",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Brandon Miller",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Tre Mann",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Josh Green",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "DaQuan Jeffries",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Josh Okogie",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Wendell Moore Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Nick Smith Jr.",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Tidjane Salaun",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Miles Bridges",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Seth Curry",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Brandon Miller",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Miles Bridges",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Tidjane Salaun",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Wendell Moore Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "DaQuan Jeffries",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Josh Green",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Moussa Diabate",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Josh Okogie",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Brandon Miller",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Grant Williams",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Mark Williams",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jusuf Nurkic",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Moussa Diabate",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Taj Gibson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Tidjane Salaun",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "DaQuan Jeffries",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Grant Williams",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "miami-heat": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Tyler Herro",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Davion Mitchell",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Terry Rozier",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Alec Burks",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Duncan Robinson",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Dru Smith",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Isaiah Stevens",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Josh Christopher",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Davion Mitchell",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Duncan Robinson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Pelle Larsson",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Alec Burks",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jaime Jaquez Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Terry Rozier",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Tyler Herro",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Dru Smith",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Josh Christopher",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Andrew Wiggins",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Haywood Highsmith",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Pelle Larsson",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Duncan Robinson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jaime Jaquez Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Alec Burks",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kyle Anderson",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Keshad Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Josh Christopher",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Bam Adebayo",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Nikola Jovic",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Haywood Highsmith",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Kyle Anderson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Andrew Wiggins",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jaime Jaquez Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kevin Love",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Duncan Robinson",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Keshad Johnson",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Kel'el Ware",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Bam Adebayo",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Nikola Jovic",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Kevin Love",
+        "injuries": []
+      }
+    ]
+  },
+  "orlando-magic": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Cory Joseph",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Anthony Black",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Cole Anthony",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Trevelin Queen",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Mac McClung",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Ethan Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jalen Suggs",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Kentavious Caldwell-Pope",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Cole Anthony",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Gary Harris",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jett Howard",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Franz Wagner",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Caleb Houstan",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Anthony Black",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Trevelin Queen",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Mac McClung",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Ethan Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 11,
+        "name": "Jalen Suggs",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Franz Wagner",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Gary Harris",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Caleb Houstan",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Tristan da Silva",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jett Howard",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kentavious Caldwell-Pope",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Anthony Black",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jonathan Isaac",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Paolo Banchero",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Paolo Banchero",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Caleb Houstan",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jonathan Isaac",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Tristan da Silva",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jett Howard",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Wendell Carter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Franz Wagner",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Moritz Wagner",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Wendell Carter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jonathan Isaac",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Goga Bitadze",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Moritz Wagner",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "washington-wizards": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Bub Carrington",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Marcus Smart",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jordan Poole",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "AJ Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Malcolm Brogdon",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Jordan Poole",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "AJ Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Marcus Smart",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Bub Carrington",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Colby Jones",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Justin Champagnie",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kyshawn George",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Malcolm Brogdon",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Khris Middleton",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Bilal Coulibaly",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 11,
+        "name": "Corey Kispert",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Justin Champagnie",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Colby Jones",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Kyshawn George",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Marcus Smart",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "JT Thor",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Jaylen Martin",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Saddiq Bey",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Khris Middleton",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Bilal Coulibaly",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Corey Kispert",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Kyshawn George",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Anthony Gill",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "JT Thor",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Justin Champagnie",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Tristan Vukcevic",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Alex Sarr",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Saddiq Bey",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Khris Middleton",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Bilal Coulibaly",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Corey Kispert",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Alex Sarr",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Tristan Vukcevic",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Richaun Holmes",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Anthony Gill",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "denver-nuggets": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Jamal Murray",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Russell Westbrook",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jalen Pickett",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Christian Braun",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Trey Alexander",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Christian Braun",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Julian Strawther",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jalen Pickett",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jamal Murray",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Trey Alexander",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Spencer Jones",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Michael Porter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Christian Braun",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Peyton Watson",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Julian Strawther",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Hunter Tyson",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Spencer Jones",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Aaron Gordon",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Peyton Watson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Vlatko Cancar",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Zeke Nnaji",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Michael Porter Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Hunter Tyson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Dario Saric",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Julian Strawther",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "PJ Hall",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Nikola Jokic",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Aaron Gordon",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "DeAndre Jordan",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Peyton Watson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Zeke Nnaji",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Dario Saric",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Vlatko Cancar",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "DaRon Holmes II",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "PJ Hall",
+        "injuries": []
+      }
+    ]
+  },
+  "minnesota-timberwolves": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Mike Conley",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Donte DiVincenzo",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Rob Dillingham",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Anthony Edwards",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Bones Hyland",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Tristen Newton",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Anthony Edwards",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Nickeil Alexander-Walker",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Donte DiVincenzo",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Terrence Shannon Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jaylen Clark",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Joe Ingles",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Josh Minott",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Bones Hyland",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Tristen Newton",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Jaden McDaniels",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Terrence Shannon Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jaylen Clark",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Nickeil Alexander-Walker",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Donte DiVincenzo",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Joe Ingles",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Josh Minott",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Leonard Miller",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Anthony Edwards",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Julius Randle",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Naz Reid",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jaden McDaniels",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Joe Ingles",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Leonard Miller",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Rudy Gobert",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Naz Reid",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Luka Garza",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Julius Randle",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Leonard Miller",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jesse Edwards",
+        "injuries": []
+      }
+    ]
+  },
+  "oklahoma-city-thunder": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Shai Gilgeous-Alexander",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Cason Wallace",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Ajay Mitchell",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Alex Caruso",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Nikola Topic",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Adam Flagler",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Luguentz Dort",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Alex Caruso",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Cason Wallace",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Isaiah Joe",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Aaron Wiggins",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Ajay Mitchell",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jalen Williams",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Shai Gilgeous-Alexander",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Nikola Topic",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Adam Flagler",
+        "injuries": []
+      },
+      {
+        "depth": 11,
+        "name": "Alex Ducas",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Jalen Williams",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Isaiah Joe",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Aaron Wiggins",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Luguentz Dort",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Alex Caruso",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Cason Wallace",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kenrich Williams",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Dillon Jones",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Alex Ducas",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Ousmane Dieng",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Chet Holmgren",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Aaron Wiggins",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jalen Williams",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Kenrich Williams",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Dillon Jones",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Ousmane Dieng",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Luguentz Dort",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Alex Caruso",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Isaiah Hartenstein",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jaylin Williams",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Chet Holmgren",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Kenrich Williams",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Ousmane Dieng",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jalen Williams",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Dillon Jones",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Branden Carlson",
+        "injuries": []
+      }
+    ]
+  },
+  "portland-trail-blazers": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Anfernee Simons",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Scoot Henderson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Dalano Banton",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Shaedon Sharpe",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Rayan Rupert",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Shaedon Sharpe",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Anfernee Simons",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Toumani Camara",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Dalano Banton",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Rayan Rupert",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kris Murray",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Matisse Thybulle",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Justin Minaya",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Sidy Cissoko",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Bryce McGowens",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Toumani Camara",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Matisse Thybulle",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Kris Murray",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Deni Avdija",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Shaedon Sharpe",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Dalano Banton",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Rayan Rupert",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Justin Minaya",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Sidy Cissoko",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Jerami Grant",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 11,
+        "name": "Bryce McGowens",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Deni Avdija",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Kris Murray",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jabari Walker",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Toumani Camara",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Matisse Thybulle",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Duop Reath",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Justin Minaya",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jerami Grant",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Robert Williams III",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Donovan Clingan",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Duop Reath",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jabari Walker",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jerami Grant",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Deandre Ayton",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Robert Williams III",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "utah-jazz": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Isaiah Collier",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Keyonte George",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Elijah Harkless",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Collin Sexton",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jordan Clarkson",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Collin Sexton",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Johnny Juzang",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jaden Springer",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Keyonte George",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Svi Mykhailiuk",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Brice Sensabaugh",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Isaiah Collier",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Elijah Harkless",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Jordan Clarkson",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Brice Sensabaugh",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Svi Mykhailiuk",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Johnny Juzang",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "KJ Martin",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Jaden Springer",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Lauri Markkanen",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Cody Williams",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Jordan Clarkson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Taylor Hendricks",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Kyle Filipowski",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "KJ Martin",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Micah Potter",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Brice Sensabaugh",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Lauri Markkanen",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "John Collins",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Taylor Hendricks",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Cody Williams",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Walker Kessler",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Oscar Tshiebwe",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Kyle Filipowski",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Micah Potter",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "John Collins",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Taylor Hendricks",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "golden-state-warriors": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Stephen Curry",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Brandin Podziemski",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Pat Spencer",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Moses Moody",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Taran Armstrong",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Brandin Podziemski",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Moses Moody",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Gary Payton II",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Buddy Hield",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Pat Spencer",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Gui Santos",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Taran Armstrong",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Buddy Hield",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Gary Payton II",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Moses Moody",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Gui Santos",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jimmy Butler III",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kevin Knox II",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jonathan Kuminga",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Braxton Key",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Jackson Rowe",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Jimmy Butler III",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jonathan Kuminga",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Draymond Green",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Gui Santos",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Moses Moody",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kevin Knox II",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Braxton Key",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jackson Rowe",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Draymond Green",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Kevon Looney",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Trayce Jackson-Davis",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Quinten Post",
+        "injuries": []
+      }
+    ]
+  },
+  "la-clippers": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "James Harden",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Kris Dunn",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Ben Simmons",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Patty Mills",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Norman Powell",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Kris Dunn",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Bogdan Bogdanovic",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Norman Powell",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Amir Coffey",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jordan Miller",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "James Harden",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Cam Christie",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Patty Mills",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Trentyn Flowers",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Seth Lundy",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Norman Powell",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Derrick Jones Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Amir Coffey",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Bogdan Bogdanovic",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Kawhi Leonard",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jordan Miller",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kris Dunn",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Nicolas Batum",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Kobe Brown",
+        "injuries": []
+      },
+      {
+        "depth": 10,
+        "name": "Cam Christie",
+        "injuries": []
+      },
+      {
+        "depth": 11,
+        "name": "Trentyn Flowers",
+        "injuries": []
+      },
+      {
+        "depth": 12,
+        "name": "Patrick Baldwin Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 13,
+        "name": "Seth Lundy",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Kawhi Leonard",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Nicolas Batum",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Derrick Jones Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Amir Coffey",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Kobe Brown",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Ben Simmons",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Patrick Baldwin Jr.",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Ivica Zubac",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Ben Simmons",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Nicolas Batum",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Drew Eubanks",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Kobe Brown",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kawhi Leonard",
+        "injuries": []
+      }
+    ]
+  },
+  "los-angeles-lakers": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Luka Doncic",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Gabe Vincent",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Austin Reaves",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Shake Milton",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jordan Goodwin",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Bronny James",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Austin Reaves",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jordan Goodwin",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Dalton Knecht",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Gabe Vincent",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Rui Hachimura",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Shake Milton",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Bronny James",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Rui Hachimura",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "LeBron James",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jordan Goodwin",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Dalton Knecht",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Dorian Finney-Smith",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Austin Reaves",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "LeBron James",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jarred Vanderbilt",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Dorian Finney-Smith",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Rui Hachimura",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Maxi Kleber",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Markieff Morris",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jaxson Hayes",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Dorian Finney-Smith",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Maxi Kleber",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jaxson Hayes",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Alex Len",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jarred Vanderbilt",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Markieff Morris",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "LeBron James",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Trey Jemison III",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Christian Koloko",
+        "injuries": []
+      }
+    ]
+  },
+  "phoenix-suns": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Devin Booker",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Tyus Jones",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Collin Gillespie",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "TyTy Washington Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Monte Morris",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Vasilije Micic",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Bradley Beal",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Grayson Allen",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Bradley Beal",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Collin Gillespie",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Grayson Allen",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Devin Booker",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Cody Martin",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Damion Lee",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Ryan Dunn",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Vasilije Micic",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Royce O'Neale",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Grayson Allen",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Cody Martin",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Ryan Dunn",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Royce O'Neale",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Bradley Beal",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Damion Lee",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jalen Bridges",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Kevin Durant",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Ryan Dunn",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Royce O'Neale",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Cody Martin",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Bol Bol",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Oso Ighodaro",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jalen Bridges",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Mason Plumlee",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Kevin Durant",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Nick Richards",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Oso Ighodaro",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Mason Plumlee",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Bol Bol",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Kevin Durant",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "sacramento-kings": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Keon Ellis",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Devin Carter",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Markelle Fultz",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Malik Monk",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Zach LaVine",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Keon Ellis",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Devin Carter",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Terence Davis",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Doug McDermott",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Malik Monk",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Mason Jones",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "DeMar DeRozan",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jake LaRavia",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Doug McDermott",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Zach LaVine",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Keegan Murray",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Terence Davis",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Keon Ellis",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jae Crowder",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Malik Monk",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Mason Jones",
+        "injuries": []
+      },
+      {
+        "depth": 11,
+        "name": "Isaiah Crawford",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Keegan Murray",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Trey Lyles",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jake LaRavia",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Isaac Jones",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Doug McDermott",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "DeMar DeRozan",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jae Crowder",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Isaiah Crawford",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Domantas Sabonis",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jonas Valanciunas",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Trey Lyles",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Isaac Jones",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jae Crowder",
+        "injuries": []
+      }
+    ]
+  },
+  "dallas-mavericks": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Klay Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Brandon Williams",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Spencer Dinwiddie",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jaden Hardy",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Dante Exum",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kyrie Irving",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Naji Marshall",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Max Christie",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Dante Exum",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Klay Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jaden Hardy",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Brandon Williams",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Spencer Dinwiddie",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Kessler Edwards",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Kyrie Irving",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "P.J. Washington",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dante Exum",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Naji Marshall",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Max Christie",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Klay Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Kessler Edwards",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Caleb Martin",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Olivier-Maxence Prosper",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Jaden Hardy",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Anthony Davis",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Caleb Martin",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "P.J. Washington",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Olivier-Maxence Prosper",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Kessler Edwards",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Naji Marshall",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Klay Thompson",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Dereck Lively II",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Daniel Gafford",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Anthony Davis",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Kai Jones",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Dwight Powell",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "P.J. Washington",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Kessler Edwards",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Olivier-Maxence Prosper",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "houston-rockets": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Fred VanVleet",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Amen Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Aaron Holiday",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Reed Sheppard",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jalen Green",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Nate Williams",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Jalen Green",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Dillon Brooks",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Reed Sheppard",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Aaron Holiday",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Cam Whitmore",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Amen Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Nate Williams",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jack McVeigh",
+        "injuries": []
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Amen Thompson",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Tari Eason",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Dillon Brooks",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Cam Whitmore",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jae'Sean Tate",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Nate Williams",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Jalen Green",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jack McVeigh",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "David Roddy",
+        "injuries": []
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Dillon Brooks",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jabari Smith Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Tari Eason",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jeff Green",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jae'Sean Tate",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Alperen Sengun",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Cam Whitmore",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "David Roddy",
+        "injuries": []
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Alperen Sengun",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Steven Adams",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jock Landale",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Jabari Smith Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jeff Green",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "N'Faly Dante",
+        "injuries": []
+      }
+    ]
+  },
+  "memphis-grizzlies": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Ja Morant",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Scotty Pippen Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Luke Kennard",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Desmond Bane",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Yuki Kawamura",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Zyon Pullin",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Cam Spencer",
+        "injuries": []
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Scotty Pippen Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Luke Kennard",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Desmond Bane",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Vince Williams Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "John Konchar",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jaylen Wells",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Cam Spencer",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Zyon Pullin",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Desmond Bane",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "John Konchar",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Vince Williams Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Luke Kennard",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "GG Jackson",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Lamar Stevens",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Santi Aldama",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Jaylen Wells",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Jaren Jackson Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Santi Aldama",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Lamar Stevens",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "GG Jackson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Vince Williams Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "John Konchar",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Brandon Clarke",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Zach Edey",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Jaren Jackson Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Marvin Bagley III",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Santi Aldama",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jay Huff",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Lamar Stevens",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Brandon Clarke",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "new-orleans-pelicans": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Jose Alvarado",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Elfrid Payton",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jordan Hawkins",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Antonio Reeves",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Bruce Brown",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Lester Quinones",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Brandon Boston",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "CJ McCollum",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Dejounte Murray",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Jordan Hawkins",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Antonio Reeves",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Lester Quinones",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Bruce Brown",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 5,
+        "name": "Jamal Cain",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jose Alvarado",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Brandon Boston",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "CJ McCollum",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Trey Murphy III",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Herbert Jones",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 11,
+        "name": "Dejounte Murray",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Bruce Brown",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Keion Brooks Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jamal Cain",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Antonio Reeves",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Lester Quinones",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jordan Hawkins",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Brandon Boston",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Zion Williamson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "Trey Murphy III",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 10,
+        "name": "Herbert Jones",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Kelly Olynyk",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Jeremiah Robinson-Earl",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Karlo Matkovic",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Keion Brooks Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Brandon Boston",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 6,
+        "name": "Trey Murphy III",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Zion Williamson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 8,
+        "name": "Herbert Jones",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Yves Missi",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Karlo Matkovic",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 3,
+        "name": "Kelly Olynyk",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Kylor Kelley",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Jeremiah Robinson-Earl",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Zion Williamson",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "Herbert Jones",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  },
+  "san-antonio-spurs": {
+    "PG": [
+      {
+        "depth": 1,
+        "name": "Chris Paul",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Blake Wesley",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Stephon Castle",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Jordan McLaughlin",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Malaki Branham",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jeremy Sochan",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 7,
+        "name": "David Duke Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "Devin Vassell",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 9,
+        "name": "De'Aaron Fox",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SG": [
+      {
+        "depth": 1,
+        "name": "Stephon Castle",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Julian Champagnie",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Devin Vassell",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Malaki Branham",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Blake Wesley",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Jordan McLaughlin",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "David Duke Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "De'Aaron Fox",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "SF": [
+      {
+        "depth": 1,
+        "name": "Devin Vassell",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Keldon Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Julian Champagnie",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Harrison Barnes",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Malaki Branham",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Stephon Castle",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Harrison Ingram",
+        "injuries": []
+      },
+      {
+        "depth": 8,
+        "name": "David Duke Jr.",
+        "injuries": []
+      },
+      {
+        "depth": 9,
+        "name": "Riley Minix",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "PF": [
+      {
+        "depth": 1,
+        "name": "Harrison Barnes",
+        "injuries": []
+      },
+      {
+        "depth": 2,
+        "name": "Sandro Mamukelashvili",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Jeremy Sochan",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 4,
+        "name": "Keldon Johnson",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Julian Champagnie",
+        "injuries": []
+      },
+      {
+        "depth": 6,
+        "name": "Harrison Ingram",
+        "injuries": []
+      },
+      {
+        "depth": 7,
+        "name": "Riley Minix",
+        "injuries": [
+          "O"
+        ]
+      }
+    ],
+    "C": [
+      {
+        "depth": 1,
+        "name": "Jeremy Sochan",
+        "injuries": [
+          "O"
+        ]
+      },
+      {
+        "depth": 2,
+        "name": "Bismack Biyombo",
+        "injuries": []
+      },
+      {
+        "depth": 3,
+        "name": "Charles Bassey",
+        "injuries": []
+      },
+      {
+        "depth": 4,
+        "name": "Sandro Mamukelashvili",
+        "injuries": []
+      },
+      {
+        "depth": 5,
+        "name": "Victor Wembanyama",
+        "injuries": [
+          "O"
+        ]
+      }
+    ]
+  }
+}

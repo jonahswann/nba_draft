@@ -1,0 +1,822 @@
+{
+  "Boston Celtics": [
+    {
+      "date": "2025-04-13T07:00Z",
+      "description": "Re-signed G JD Davison to a rest-of-season contract."
+    },
+    {
+      "date": "2025-04-03T07:00Z",
+      "description": "Assigned F Jordan Walsh to the Maine Celtics of the G League."
+    },
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Signed F Miles Norris to a two-way contract."
+    },
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Signed F Torrey Craig to a rest-of-season contract."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired draft consideration from Houston Rockets for G Jaden Springer and draft consideration."
+    },
+    {
+      "date": "2025-01-17T08:00Z",
+      "description": "Recalled G Baylor Scheierman from the Maine Celtics of the G League."
+    }
+  ],
+  "Brooklyn Nets": [
+    {
+      "date": "2025-03-28T07:00Z",
+      "description": "Signed F Drew Timme to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-25T07:00Z",
+      "description": "Recalled F Dariq Whitehead from the Long Island Nets of the G League."
+    },
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Signed G Tyson Etienne to a two-way contract. Waived G Kendall Brown."
+    },
+    {
+      "date": "2025-02-25T08:00Z",
+      "description": "Signed G Kendall Brown to a two-way contract."
+    },
+    {
+      "date": "2025-02-20T08:00Z",
+      "description": "Re-signed F Tyrese Martin to a rest-of-season contract. Signed G Killian Hayes to a 10-day contract. Waived F Bojan Bogdanovic."
+    },
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Waived G Ben Simmons."
+    },
+    {
+      "date": "2025-01-01T08:00Z",
+      "description": "Signed Fn Tosan Evbuomwan to a two-way contract. Waived G Jaylen Martin."
+    }
+  ],
+  "New York Knicks": [
+    {
+      "date": "2025-04-04T07:00Z",
+      "description": "Recalled F Pacome Dadiet from the Westchester Knicks of the G League."
+    },
+    {
+      "date": "2025-04-01T07:00Z",
+      "description": "Signed F P.J. Tucker to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-26T07:00Z",
+      "description": "Assigned F Pacome Dadiet to the Westchester Knicks of the G League."
+    },
+    {
+      "date": "2025-03-20T07:00Z",
+      "description": "Signed F P.J. Tucker to a 10-day contract."
+    },
+    {
+      "date": "2025-03-18T07:00Z",
+      "description": "Assigned F Pacome Dadiet to the Westchester Knicks of the G League."
+    },
+    {
+      "date": "2025-03-17T07:00Z",
+      "description": "Assigned G Tyler Kolek to the Westchester Knicks of the G League."
+    },
+    {
+      "date": "2025-03-10T07:00Z",
+      "description": "Signed F P.J. Tucker to a 10-day contract."
+    },
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Signed F MarJon Beauchamp to a two-way contract. Claimed F Anton Watson off waivers."
+    },
+    {
+      "date": "2025-02-26T08:00Z",
+      "description": "Recalled F Pacome Dadiet and G Tyler Kolek from the Westchester Knicks of the G League."
+    },
+    {
+      "date": "2025-01-15T08:00Z",
+      "description": "Recalled C Ariel Hukporti and G Tyler Kolek from the Westchester Knicks of the G League."
+    },
+    {
+      "date": "2025-01-14T08:00Z",
+      "description": "Assigned C Ariel Hukporti to the Westchester Knicks of the G League."
+    }
+  ],
+  "Philadelphia 76Ers": [
+    {
+      "date": "2025-04-03T07:00Z",
+      "description": "Signed C Colin Castleton to a 10-day contract."
+    },
+    {
+      "date": "2025-03-26T07:00Z",
+      "description": "Signed F Phillip Wheeler to a 10-day contract."
+    },
+    {
+      "date": "2025-03-24T07:00Z",
+      "description": "Signed F Marcus Bagley to a 10-day contract."
+    },
+    {
+      "date": "2025-03-16T07:00Z",
+      "description": "Signed F Chuma Okeke to a 10-day contract."
+    },
+    {
+      "date": "2025-03-14T07:00Z",
+      "description": "Signed F Oshae Brissett to a 10-day contract."
+    },
+    {
+      "date": "2025-03-01T08:00Z",
+      "description": "Signed G Jalen Hood-Schifino to a two-way contract. Waived F David Roddy."
+    },
+    {
+      "date": "2025-02-21T08:00Z",
+      "description": "Signed G Lonnie Walker IV to a rest-of-season contract. Signed F David Roddy to a two-way contract."
+    },
+    {
+      "date": "2025-02-11T08:00Z",
+      "description": "Signed F David Roddy to a 10-day contract."
+    },
+    {
+      "date": "2025-02-09T08:00Z",
+      "description": "Signed F Justin Edwards to a rest-of-season contract."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Signed F Chuma Okeke to a 10-day contract."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired draft consideration from Washington Wizards for G Reggie Jackson and draft consideration."
+    },
+    {
+      "date": "2025-01-14T08:00Z",
+      "description": "Signed F Pete Nance to a two-way contract."
+    },
+    {
+      "date": "2025-01-07T08:00Z",
+      "description": "Waived F Pete Nance."
+    }
+  ],
+  "Toronto Raptors": [
+    {
+      "date": "2025-04-13T07:00Z",
+      "description": "Signed C Colin Castleton to a rest-of-season contract."
+    },
+    {
+      "date": "2025-04-10T07:00Z",
+      "description": "Waived C Orlando Robinson and F Cole Swider."
+    },
+    {
+      "date": "2025-03-26T07:00Z",
+      "description": "Signed F Cole Swider to a 10-day contract."
+    },
+    {
+      "date": "2025-03-07T08:00Z",
+      "description": "Recalled F Jamison Battle and F Colin Castleton from the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-03-06T08:00Z",
+      "description": "Signed C Colin Castleton to a 10-day contract."
+    },
+    {
+      "date": "2025-03-05T08:00Z",
+      "description": "Assigned F Jamison Battle to the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Signed G Jared Rhoden to a two-way contract. Converted the contract of C Orlando Robinson to an NBA contract."
+    },
+    {
+      "date": "2025-02-28T08:00Z",
+      "description": "Waived F P.J. Tucker."
+    },
+    {
+      "date": "2025-02-27T08:00Z",
+      "description": "Recalled F Jamison Battle from the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-02-25T08:00Z",
+      "description": "Assigned F Jamison Battle and G Jared Rhoden to the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-02-19T08:00Z",
+      "description": "Signed G Jared Rhoden to a 10-day contract."
+    },
+    {
+      "date": "2025-02-12T08:00Z",
+      "description": "Re-signed F Brandon Ingram to a contract extension."
+    },
+    {
+      "date": "2025-02-11T08:00Z",
+      "description": "Signed F Brandon Ingram to a three-year contract extension."
+    },
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Waived C James Wiseman."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired F P.J. Tucker from Utah"
+    },
+    {
+      "date": "2025-01-28T08:00Z",
+      "description": "Signed C Orlando Robinson to a 10-day contract. Assigned F Ja'Kobe Walter to the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-01-22T08:00Z",
+      "description": "Assigned Fs Jonathan Mogbo and Ja'Kobe Walter to the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-01-17T08:00Z",
+      "description": "Recalled F Jonathan Mogbo from the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-01-15T08:00Z",
+      "description": "Assigned Fs Jonathan Mogbo, Eugene Omoruyi and Ja'Kobe Walter to the Raptors 905 of the G League."
+    },
+    {
+      "date": "2025-01-07T08:00Z",
+      "description": "Waived F Bruno Fernando."
+    }
+  ],
+  "Chicago Bulls": [
+    {
+      "date": "2025-02-19T08:00Z",
+      "description": "Waived F Adam Sanogo. Signed G Jahmir Young to a two-way contract."
+    },
+    {
+      "date": "2025-02-14T08:00Z",
+      "description": "Re-signed G Lonzo Ball to a veteran extension."
+    },
+    {
+      "date": "2025-02-03T08:00Z",
+      "description": "Received Gs Kevin Huerter from Sacramento in exchange for G Zach LaVine and draft considerations. Received G Tre Jones, F Zach Collins and draft considerations from San Antonio. Waived F Torrey Craig and G Chris Duarte."
+    }
+  ],
+  "Cleveland Cavaliers": [
+    {
+      "date": "2025-03-05T08:00Z",
+      "description": "Assigned F Jaylon Tyson to the Cleveland Charge of the G League."
+    },
+    {
+      "date": "2025-03-02T08:00Z",
+      "description": "Signed F Nae'Qwan Tomlin to a two-way contract."
+    },
+    {
+      "date": "2025-03-01T08:00Z",
+      "description": "Waived F JT Thor."
+    },
+    {
+      "date": "2025-02-23T08:00Z",
+      "description": "Signed G Javonte Green to a rest-of-season contract."
+    },
+    {
+      "date": "2025-02-20T08:00Z",
+      "description": "Signed F Nae'Qwan Tomlin to a 10-day contract."
+    },
+    {
+      "date": "2025-01-09T08:00Z",
+      "description": "Assigned G Craig Porter, Jr. and F Jaylon Tyson o the Cleveland Charge of the G League."
+    }
+  ],
+  "Detroit Pistons": [
+    {
+      "date": "2025-02-26T08:00Z",
+      "description": "Recalled F Bobi Klintman from the Motor City Cruise of the G League."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired draft considerations from Utah Jazz for F KJ Martin."
+    },
+    {
+      "date": "2025-01-06T08:00Z",
+      "description": "Signed G Ron Harper Jr. and F Tolu Smith to two-way contracts."
+    }
+  ],
+  "Indiana Pacers": [
+    {
+      "date": "2025-04-04T07:00Z",
+      "description": "Recalled F Johnny Furphy from the Indiana Mad Ants of the G League."
+    },
+    {
+      "date": "2025-04-01T07:00Z",
+      "description": "Assigned F Johnny Furphy to the Indiana Mad Ants of the G League."
+    },
+    {
+      "date": "2025-03-31T07:00Z",
+      "description": "Assigned F Johnny Furphy to the Indiana Mad Ants of the G League."
+    },
+    {
+      "date": "2025-03-13T07:00Z",
+      "description": "Signed C Tony Bradley to a 10-day contract."
+    },
+    {
+      "date": "2025-03-02T08:00Z",
+      "description": "Signed C Tony Bradley to a 10-day contract."
+    },
+    {
+      "date": "2025-02-11T08:00Z",
+      "description": "Signed C Jahlil Okafor to a 10-day contract."
+    },
+    {
+      "date": "2025-01-01T08:00Z",
+      "description": "Waived G Tristen Newton."
+    }
+  ],
+  "Milwaukee Bucks": [
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Converted the contract of G Ryan Rollins to an NBA Contract."
+    },
+    {
+      "date": "2025-02-27T08:00Z",
+      "description": "Waived C Liam Robbins."
+    },
+    {
+      "date": "2025-01-27T08:00Z",
+      "description": "Recalled F Chris Livingston from the Wisconsin Herd of the G League."
+    }
+  ],
+  "Atlanta Hawks": [
+    {
+      "date": "2025-04-21T07:00Z",
+      "description": "Fired general manager Landry Fields."
+    },
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Re-signed F Dominick Barlow to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-01T08:00Z",
+      "description": "Signed K Kevon Harris to a 10-day contract."
+    },
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Waived G Bones Hyland."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Waived F David Roddy."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Assigned F Mouhamed Gueye to the College Park Skyhawks of the G League."
+    }
+  ],
+  "Charlotte Hornets": [
+    {
+      "date": "2025-04-13T07:00Z",
+      "description": "Signed G Jaylen Sims to a rest-of-season contract."
+    },
+    {
+      "date": "2025-04-03T07:00Z",
+      "description": "Signed G Jaylen Sims to a 10-day contract."
+    },
+    {
+      "date": "2025-03-12T07:00Z",
+      "description": "Signed G Marcus Garrett to a 10-day contract."
+    },
+    {
+      "date": "2025-03-01T08:00Z",
+      "description": "Signed G Malachi Flynn to a 10-day contract."
+    },
+    {
+      "date": "2025-02-18T08:00Z",
+      "description": "Signed G Elfrid Payton to a 10-day contract."
+    },
+    {
+      "date": "2025-02-15T08:00Z",
+      "description": "Signed G Wendell Moore Jr. to a two-way contract."
+    },
+    {
+      "date": "2025-02-13T08:00Z",
+      "description": "Waived G Isiah Wong."
+    },
+    {
+      "date": "2025-02-12T08:00Z",
+      "description": "Signed guard Damion Baugh to a two-way contract."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Signed G Elfrid Payton to a 10-day contract."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired C Jusuf Nurki\u0107 and a 2026 first-round pick from Phoenix Suns for F Cody Martin, G Vasa Mici\u0107 and a 2026 second-round pick."
+    },
+    {
+      "date": "2025-02-03T08:00Z",
+      "description": "Acquired a 2029 second-round draft pick, originally belonging to the Phoenix Suns, from the Oklahoma City Thunder in exchange for a 2030 conditional second-round draft pick originally belonging to the Denver Nuggets."
+    },
+    {
+      "date": "2025-01-15T08:00Z",
+      "description": "Acquired G Josh Okogie and three second-round draft picks from Phoenix in exchange for C Nick Richards and a second-round draft pick."
+    }
+  ],
+  "Miami Heat": [
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired draft considerations from Utah Jazz for G Josh Richardson."
+    },
+    {
+      "date": "2025-01-27T08:00Z",
+      "description": "Suspended F Jimmy Butler indefinitely. Recalled F Keshad Johnson from the Sioux Falls Skyforce of the G League."
+    }
+  ],
+  "Washington Wizards": [
+    {
+      "date": "2025-03-21T07:00Z",
+      "description": "Assigned F Saddiq Bey to the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-03-14T07:00Z",
+      "description": "Assigned G Colby Jones to the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-03-13T07:00Z",
+      "description": "Recalled G A.J. Johnson and F Colby Jones from the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-03-12T07:00Z",
+      "description": "Assigned G A.J. Johnson and F Colby Jones to the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-03-10T07:00Z",
+      "description": "Recalled G A.J. Johnson from the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-03-03T08:00Z",
+      "description": "Re-signed G Justin Champagnie to a multi-year contract. Released F Jalen McDaniels. Claimed F JT Thor off waivers."
+    },
+    {
+      "date": "2025-02-27T08:00Z",
+      "description": "Assigned G/F Colby Jones to the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-02-25T08:00Z",
+      "description": "Recalled G A.J. Johnson and F Colby Jones from the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-02-22T08:00Z",
+      "description": "Signed F Jalen McDaniels to a 10-day contract."
+    },
+    {
+      "date": "2025-02-17T08:00Z",
+      "description": "Signed G Erik Stevenson to a ten-day contract."
+    },
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Signed G Jaylen Martin to a two-way contract."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired G Reggie Jackson and draft consideration from the Philadelphia 76ers in exchange for draft consideration. Waived Gs Sidy Cissoko and Reggie Jackson. Acquired G Colby Jones and C Alex Len from Sacramento. Acquired G Marcus Smart and draft considerations from Memphis."
+    },
+    {
+      "date": "2025-02-05T08:00Z",
+      "description": "Recalled G Patrick Baldwin, Jr. from the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-01-27T08:00Z",
+      "description": "Recalled G Patrick Baldwin, Jr. from the Capital City Go-Go of the G League."
+    },
+    {
+      "date": "2025-01-15T08:00Z",
+      "description": "Assigned G Patrick Baldwin, Jr. to the Capital City Go-Go of the G League."
+    }
+  ],
+  "Denver Nuggets": [
+    {
+      "date": "2025-04-08T07:00Z",
+      "description": "Fired head coach Michael Malone and general manager Calvin Booth. Named David Adelman interim head coach."
+    }
+  ],
+  "Minnesota Timberwolves": [
+    {
+      "date": "2025-02-27T08:00Z",
+      "description": "Re-signed G Jaylen Clark to a rest-of-season contract. Signed G Bones Hyland to a two-way contract."
+    }
+  ],
+  "Oklahoma City Thunder": [
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Waived F Daniel Theis. Signed G Ajay Mitchell to a rest-of-season contract. Signed C Branden Carlson to a two-way contract."
+    },
+    {
+      "date": "2025-02-05T08:00Z",
+      "description": "Received F Daniel Theis and a 2031 second-round pick from New Orleans in exchange for cash considerations."
+    },
+    {
+      "date": "2025-02-03T08:00Z",
+      "description": "Acquired a 2030 conditional second-round draft pick originally belonging to the Denver Nuggets from Charlotte Hornets for a 2029 second-round draft pick, originally belonging to the Phoenix Suns,."
+    },
+    {
+      "date": "2025-01-22T08:00Z",
+      "description": "Signed C Branden Carlson to a 10-day contract."
+    },
+    {
+      "date": "2025-01-10T08:00Z",
+      "description": "Signed C Branden Carlson to a 10-day contract."
+    },
+    {
+      "date": "2025-01-07T08:00Z",
+      "description": "Waived C Branden Carlson."
+    }
+  ],
+  "Portland Trail Blazers": [
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Signed G Sidy Cissoko to a two-way contract."
+    }
+  ],
+  "Utah Jazz": [
+    {
+      "date": "2025-05-05T07:00Z",
+      "description": "Signed head coach Will Hardy to a contract extension through 2031."
+    },
+    {
+      "date": "2025-03-02T08:00Z",
+      "description": "Waived F Anton Watson."
+    },
+    {
+      "date": "2025-02-20T08:00Z",
+      "description": "Signed G Jaden Springer to a 10-day contract."
+    },
+    {
+      "date": "2025-02-09T08:00Z",
+      "description": "Waived G Josh Richardson."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Waived G Jalen Hood-Schifino."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired G Josh Richardson from Miami in exchange for draft considerations. Acquired F KJ Martin from Detroit in exchange for draft considerations."
+    },
+    {
+      "date": "2025-02-02T08:00Z",
+      "description": "Received a second-round draft pick from Dallas. Received G Jalen Hood Schifino and a second-round draft pick from the Los Angeles Lakers."
+    },
+    {
+      "date": "2025-02-01T08:00Z",
+      "description": "Acquired C Mo Bamba, F P.J. Tucker, a future second-round draft pick, and cash considerations from the Los Angeles Clippers in exchange for F/C Drew Eubanks and G Patty Mills."
+    },
+    {
+      "date": "2025-01-01T08:00Z",
+      "description": "Signed G Elijah Harkless to a two-way contract. Waived F David Jones Garcia."
+    }
+  ],
+  "Golden State Warriors": [
+    {
+      "date": "2025-04-13T07:00Z",
+      "description": "Converted the contract of F Braxton Key to an NBA contract."
+    },
+    {
+      "date": "2025-03-23T07:00Z",
+      "description": "Signed F Kevin Knox II to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-04T08:00Z",
+      "description": "Converted the contract of G Pat Spencer to an NBA contract."
+    },
+    {
+      "date": "2025-03-01T08:00Z",
+      "description": "Signed F Kevin Knox II to a 10-day contract."
+    },
+    {
+      "date": "2025-02-25T08:00Z",
+      "description": "Signed G Taran Armstrong to a two-way contract."
+    },
+    {
+      "date": "2025-02-24T08:00Z",
+      "description": "Signed G Taran Armstrong to a two-way contract."
+    },
+    {
+      "date": "2025-02-19T08:00Z",
+      "description": "Signed F Kevin Knox II and G Yuri Collins to 10-day contracts."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Signed C Quinten Post to a rest-of-season contract."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired F Jimmy Butler from Miami Heat for Fs Andres Wiggins, Kyle Anderson and draft considerations."
+    },
+    {
+      "date": "2025-01-28T08:00Z",
+      "description": "Signed F Jackson Rowe to a two-way contract."
+    }
+  ],
+  "Los Angeles Lakers": [
+    {
+      "date": "2025-03-27T07:00Z",
+      "description": "Re-signed G Jordan Goodwin to a rest-of-season contract. Waived F Cam Reddish."
+    },
+    {
+      "date": "2025-03-26T07:00Z",
+      "description": "Recalled G Bronny James from the South Bay Lakers of the G League."
+    },
+    {
+      "date": "2025-02-11T08:00Z",
+      "description": "Signed C Alex Len to a rest-of-season contract."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Signed G John Goodwin to a two-way contract. Waived F Armel Traore."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired C Mark Williams from Charlotte Hornets for G Dalton Knecht, F Cam Reddish, an unprotected 2031 first-round draft pick and a 2030 pick swap."
+    },
+    {
+      "date": "2025-01-15T08:00Z",
+      "description": "Waived G Quincy Olivari."
+    }
+  ],
+  "Phoenix Suns": [
+    {
+      "date": "2025-04-14T07:00Z",
+      "description": "Fired head coach Mike Budenholzer."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired F Cody Martin, G Vasa Mici\u0107 and a 2026 second-round pick from Charlotte in exchange for C Jusuf Nurki\u0107 and a 2026 first-round pick."
+    },
+    {
+      "date": "2025-01-21T08:00Z",
+      "description": "Acquired three future first-round picks from Utah in exchanged for a future first-round pick."
+    },
+    {
+      "date": "2025-01-15T08:00Z",
+      "description": "Acquired C Nick Richards and a second-round draft pick from Charlotte Hornets for G Josh Okogie and three second-round draft picks."
+    }
+  ],
+  "Sacramento Kings": [
+    {
+      "date": "2025-04-09T07:00Z",
+      "description": "Signed G Terence Davis to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-03T08:00Z",
+      "description": "Signed F Skal Labissiere to a 10-day contract."
+    },
+    {
+      "date": "2025-02-08T08:00Z",
+      "description": "Signed G Daishen Nix to a 10-day contract."
+    },
+    {
+      "date": "2025-02-03T08:00Z",
+      "description": "Received G Sidy Cissoko and draft considerations from San Antonio in exchange for Gs Jordan McLaughlin and De'Aaron Fox."
+    },
+    {
+      "date": "2025-01-07T08:00Z",
+      "description": "Waived C Orlando Robinson."
+    }
+  ],
+  "Dallas Mavericks": [
+    {
+      "date": "2025-04-10T07:00Z",
+      "description": "Re-signed G Brandon Williams to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-17T07:00Z",
+      "description": "Assigned F/C Anthony Davis to Texas (G League)."
+    },
+    {
+      "date": "2025-03-03T08:00Z",
+      "description": "Signed C Kai Jones to a two-way contract."
+    },
+    {
+      "date": "2025-03-02T08:00Z",
+      "description": "Waived C Kylor Kelley."
+    },
+    {
+      "date": "2025-02-20T08:00Z",
+      "description": "Signed C Moses Brown to a 10-day contract."
+    },
+    {
+      "date": "2025-02-04T08:00Z",
+      "description": "Received F Caleb Martin from Philadelphia in exchange for G Quentin Grims and draft considerations."
+    },
+    {
+      "date": "2025-02-02T08:00Z",
+      "description": "Received G Max Christie, F Anthony Davis and a 2029 first-round draft pick from the Los Angeles Lakers in exchange for Fs Luka Doncic, Maxi Kleber and Markieff Morris."
+    },
+    {
+      "date": "2025-01-27T08:00Z",
+      "description": "Signed D Kylor Kelley to a two-way contract. Ended their two-way contract with G Jazian Gortman."
+    }
+  ],
+  "Houston Rockets": [
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Waived G Jaden Springer."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired G Jaden Springer and draft consideration from the Boston Celtics in exchange for draft consideration."
+    }
+  ],
+  "Memphis Grizzlies": [
+    {
+      "date": "2025-05-02T07:00Z",
+      "description": "Hired Tuomas Iisalo as head coach."
+    },
+    {
+      "date": "2025-03-28T07:00Z",
+      "description": "Fired Head Coach Taylor Jenkins."
+    },
+    {
+      "date": "2025-03-17T07:00Z",
+      "description": "Assigned F G.G. Jackson to the Memphis Hustle of the G League."
+    },
+    {
+      "date": "2025-03-13T07:00Z",
+      "description": "Signed F Lamar Stevens to a rest-of-season contract."
+    },
+    {
+      "date": "2025-03-05T08:00Z",
+      "description": "Recalled C James Huff from the Memphis Hustle of the G League."
+    },
+    {
+      "date": "2025-03-03T08:00Z",
+      "description": "Signed F Lamar Stevens to a 10-day contract."
+    },
+    {
+      "date": "2025-02-21T08:00Z",
+      "description": "Signed F Lamar Stevens to a 10-day contract. Waived G Johnny Davis."
+    },
+    {
+      "date": "2025-02-06T08:00Z",
+      "description": "Acquired draft considerations from Sacaramento Kings for F Jake LaRavia."
+    },
+    {
+      "date": "2025-01-10T08:00Z",
+      "description": "Signed G Zyon Pullin to a two-way contract. Waived C Colin Castleton."
+    }
+  ],
+  "New Orleans Pelicans": [
+    {
+      "date": "2025-04-14T07:00Z",
+      "description": "Fired executive vice president David Griffin."
+    },
+    {
+      "date": "2025-04-13T07:00Z",
+      "description": "Signed C Kylor Kelley to a 10-day contract."
+    },
+    {
+      "date": "2025-04-11T07:00Z",
+      "description": "Re-signed G Elfrid Payton to a rest-of season contract."
+    },
+    {
+      "date": "2025-04-03T07:00Z",
+      "description": "Signed C Kylor Kelley to a 10-day contract."
+    },
+    {
+      "date": "2025-03-21T07:00Z",
+      "description": "Signed G Elfrid Payton to a 10-day contract."
+    },
+    {
+      "date": "2025-03-10T07:00Z",
+      "description": "Signed C Mo Bomba to a 10-day contract."
+    },
+    {
+      "date": "2025-03-02T08:00Z",
+      "description": "Signed G Lester Quinones to a two-way contract."
+    },
+    {
+      "date": "2025-03-01T08:00Z",
+      "description": "Waived G Jalen Crutcher."
+    },
+    {
+      "date": "2025-02-20T08:00Z",
+      "description": "Waived G Javonte Green."
+    },
+    {
+      "date": "2025-01-09T08:00Z",
+      "description": "Waived C Trey Jemison III."
+    }
+  ],
+  "San Antonio Spurs": [
+    {
+      "date": "2025-05-02T07:00Z",
+      "description": "Announced head coach Greg Popovich will transition roles to president of basketball operations. Hired Mitch Johnson as head coach."
+    },
+    {
+      "date": "2025-03-03T08:00Z",
+      "description": "Signed C Bismack Biyombo to a rest-of-season contract."
+    },
+    {
+      "date": "2025-02-21T08:00Z",
+      "description": "Signed C Bismack Biyombo to a 10-day contract."
+    },
+    {
+      "date": "2025-02-09T08:00Z",
+      "description": "Signed C Bismack Biyombo to a 10-day contract."
+    },
+    {
+      "date": "2025-02-07T08:00Z",
+      "description": "Waived F Patrick Baldwin Jr."
+    }
+  ]
+}
