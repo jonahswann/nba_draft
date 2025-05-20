@@ -7,12 +7,12 @@ import teamTransactions from './data/team_transaction_data.json';
 import { fullTeamNames, teamSlugs, depthChartKeys } from './data/teamMaps';
 
 function TeamRoster() {
-  const { team } = useParams(); // e.g. "CLIPPERS"
+  const { team } = useParams();
   const navigate = useNavigate();
   const prettyName = fullTeamNames[team.toLowerCase()] || team;
 
-  const statKey = teamSlugs[prettyName]; // like "por"
-  const depthKey = depthChartKeys[prettyName]; // like "portland-trail-blazers"
+  const statKey = teamSlugs[prettyName];
+  const depthKey = depthChartKeys[prettyName];
   const rosterKey = prettyName;
   const transactionKey = prettyName;
 
@@ -20,6 +20,22 @@ function TeamRoster() {
   const depth = depthStats[depthKey];
   const roster = teamRosters[rosterKey];
   const transactions = teamTransactions[transactionKey];
+
+  const statCategories = [
+    'gamesPlayed', 'gamesStarted', 'avgMinutes', 'avgPoints', 'avgOffensiveRebounds', 'avgDefensiveRebounds', 'avgRebounds',
+    'avgAssists', 'avgSteals', 'avgBlocks', 'avgTurnovers', 'avgFouls', 'assistTurnoverRatio'
+  ];
+
+  const shootingCategories = [
+    'avgFieldGoalsMade', 'avgFieldGoalsAttempted', 'fieldGoalPct',
+    'avgThreePointFieldGoalsMade', 'avgThreePointFieldGoalsAttempted', 'threePointPct',
+    'avgFreeThrowsMade', 'avgFreeThrowsAttempted', 'freeThrowPct',
+    'avgTwoPointFieldGoalsMade', 'avgTwoPointFieldGoalsAttempted', 'twoPointFieldGoalPct',
+    'scoringEfficiency', 'shootingEfficiency'
+  ];
+
+  const maxDepth = Math.max(...Object.values(depth || {}).map(arr => arr.length));
+  const depthPositions = ['PG', 'SG', 'SF', 'PF', 'C'];
 
   return (
     <div style={{ padding: '2rem' }}>
@@ -32,56 +48,112 @@ function TeamRoster() {
 
       {/* Team Stat Leaders */}
       <h2>Team Stat Leaders</h2>
-      {stats?.teamLeaders && (
-        <ul>
-          {stats.teamLeaders.map((s, i) => (
-            <li key={i}><strong>{s.stat}</strong>: {s.player} ({s.value})</li>
-          ))}
-        </ul>
+      {stats?.teamLeaders && roster && (
+        <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
+          {stats.teamLeaders.map((leader, index) => {
+            const player = roster.find(p => p.name.toLowerCase() === leader.player.toLowerCase());
+            return (
+              <div key={index} style={{
+                border: '1px solid #ccc', borderRadius: '12px', padding: '1rem', flex: '1 0 180px', textAlign: 'center', boxShadow: '0 2px 6px rgba(0,0,0,0.1)'
+              }}>
+                <h4>{leader.stat}</h4>
+                {player && (
+                  <>
+                    <img src={player.headshot} alt={player.name} style={{ width: '60px', height: '60px', borderRadius: '50%' }} />
+                    <div><strong>{player.name}</strong></div>
+                    <div style={{ fontSize: '0.85rem', color: '#666' }}>{player.position}</div>
+                  </>
+                )}
+                <div style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>{leader.value}</div>
+              </div>
+            );
+          })}
+        </div>
       )}
 
       {/* Team Totals */}
       <h2>Team Averages</h2>
       {stats?.teamTotals && (
-        <table border="1" cellPadding={6}><tbody>
-          {Object.entries(stats.teamTotals).map(([k, v]) => (
-            <tr key={k}><td>{k}</td><td>{v}</td></tr>
-          ))}
-        </tbody></table>
+        <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
+          <thead>
+            <tr>{Object.keys(stats.teamTotals).map(key => <th key={key}>{key}</th>)}</tr>
+          </thead>
+          <tbody>
+            <tr>{Object.values(stats.teamTotals).map((val, i) => <td key={i}>{val}</td>)}</tr>
+          </tbody>
+        </table>
       )}
 
       {/* Player Stats */}
-      <h2>Player Stats</h2>
+      <h2>Player Stats – All Splits</h2>
       {stats?.playerStats && (
         <>
-          {Object.entries(stats.playerStats).map(([name, stat]) => (
-            <div key={name} style={{ marginBottom: '1rem' }}>
-              <h3>{name}</h3>
-              <table border="1" cellPadding={4}>
-                <tbody>
-                  {Object.entries(stat).map(([label, val]) => (
-                    <tr key={label}><td>{label}</td><td>{val}</td></tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          ))}
+          <h3>Player Stats</h3>
+          <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
+            <thead>
+              <tr><th>NAME</th>{statCategories.map(cat => <th key={cat}>{cat.toUpperCase()}</th>)}</tr>
+            </thead>
+            <tbody>
+              {Object.entries(stats.playerStats).map(([name, stat]) => (
+                <tr key={name}>
+                  <td>{name}</td>
+                  {statCategories.map(cat => <td key={cat}>{stat[cat]}</td>)}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+
+          <h3>Shooting Stats</h3>
+          <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
+            <thead>
+              <tr><th>NAME</th>{shootingCategories.map(cat => <th key={cat}>{cat.toUpperCase()}</th>)}</tr>
+            </thead>
+            <tbody>
+              {Object.entries(stats.playerStats).map(([name, stat]) => (
+                <tr key={name}>
+                  <td>{name}</td>
+                  {shootingCategories.map(cat => <td key={cat}>{stat[cat]}</td>)}
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </>
       )}
 
       {/* Depth Chart */}
       <h2>Depth Chart</h2>
       {depth && (
-        Object.entries(depth).map(([position, players]) => (
-          <div key={position}>
-            <h3>{position}</h3>
-            <ul>
-              {players.map((p, i) => (
-                <li key={i}>{p.name} {p.injuries.length > 0 && <span style={{ color: 'red' }}>({p.injuries.join(', ')})</span>}</li>
+        <>
+          <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
+            <thead>
+              <tr>
+                <th>Position</th>
+                {[...Array(maxDepth)].map((_, i) => <th key={i}>{i + 1}TH</th>)}
+              </tr>
+            </thead>
+            <tbody>
+              {depthPositions.map(pos => (
+                <tr key={pos}>
+                  <td><strong>{pos}</strong></td>
+                  {[...Array(maxDepth)].map((_, i) => {
+                    const player = depth[pos]?.[i];
+                    return (
+                      <td key={i} style={{ color: player?.injuries?.includes('O') ? 'red' : 'inherit' }}>
+                        {player ? `${player.name}${player.injuries.includes('O') ? ' (O)' : ''}` : '-'}
+                      </td>
+                    );
+                  })}
+                </tr>
               ))}
-            </ul>
+            </tbody>
+          </table>
+          <div style={{ marginTop: '1rem' }}>
+            <strong>GLOSSARY</strong><br />
+            <strong>PG</strong>: Point Guard &nbsp; <strong>SG</strong>: Shooting Guard &nbsp;
+            <strong>SF</strong>: Small Forward &nbsp; <strong>PF</strong>: Power Forward &nbsp; <strong>C</strong>: Center<br />
+            <span style={{ color: 'red' }}><strong>O</strong>: Out</span>
           </div>
-        ))
+        </>
       )}
 
       {/* Roster */}
