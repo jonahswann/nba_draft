@@ -1,9 +1,52 @@
 import React, { useState } from 'react';
 
+const customHeadshotOverrides = new Set([
+  "ACE_BAILEY", "ALEX_KARABAN", "BEN_SARAF", "CARTER_BRYANT", "CHAZZ_LANIER",
+  "DINK_PATE", "HUNTER_SALLIS", "ISAIAH_EVANS", "JEREMIAH_FEARS", "JOAN_BERINGER",
+  "JOHNI_BROOME", "MALIQUE_LEWIS", "MILES_BYRD", "MOUHAMED_FAYE", "NOAH_PENDA",
+  "RYAN_KALKBRENNER", "WILL_RILEY", "YAXEL_LENDEBORG", "ZVONIMIR_IVISIC"
+]);
+
+function formatNameFromFullName(fullName) {
+  const sanitize = str =>
+    str.normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-zA-Z]/g, '')
+      .toUpperCase();
+
+  const parts = fullName.split(' ');
+  const first = sanitize(parts[0] || '');
+  const last = sanitize(parts.slice(1).join(' ') || '');
+
+  return `${first}_${last}`;
+}
+
+function getImageSrc(player, imageErrors) {
+  const fileName = formatNameFromFullName(`${player.firstName} ${player.lastName}`);
+
+  if (customHeadshotOverrides.has(fileName)) {
+    if (imageErrors[fileName]) {
+      return 'https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png';
+    }
+    return `/player_headshots/${fileName}.png`;
+  }
+
+  if (player.photoUrl) return player.photoUrl;
+
+  if (imageErrors[fileName]) {
+    return 'https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png';
+  }
+
+  return `/player_headshots/${fileName}.png`;
+}
+
+
 function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, onBack }) {
   const playerRank = rankings.find(r => r.playerId === player.playerId);
   const playerMeas = measurements.find(m => m.playerId === player.playerId);
   const fullName = `${player.firstName} ${player.lastName}`;
+  const [imageErrors, setImageErrors] = useState({});
+
 
   const playerGamesBySeason = gameLogs[fullName] || {};
 
@@ -78,14 +121,17 @@ const measurementLabels = {
           <p><strong>Height:</strong> {inchesToFeetAndInches(player.height)}</p>
           <p><strong>Weight:</strong> {player.weight} lbs</p>
 
-          {player.photoUrl && (
-              <img
-                  src={player.photoUrl}
-                  alt={player.name}
-                  width={150}
-                  style={{borderRadius: '8px', margin: '1rem 0'}}
-              />
-          )}
+          <img
+              src={getImageSrc(player, imageErrors)}
+              onError={() => {
+                  const fileName = formatNameFromFullName(`${player.firstName} ${player.lastName}`);
+                  setImageErrors(prev => ({...prev, [fileName]: true}));
+              }}
+              alt={player.name}
+              width={150}
+              style={{borderRadius: '8px', margin: '1rem 0'}}
+          />
+
 
           <h3>Scout Rankings</h3>
           {playerRank ? (
