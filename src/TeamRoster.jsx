@@ -6,6 +6,39 @@ import teamRosters from './data/team_roster_data.json';
 import teamTransactions from './data/team_transaction_data.json';
 import { fullTeamNames, teamSlugs, depthChartKeys } from './data/teamMaps';
 
+const statDisplayMap = {
+  gamesPlayed: ['GP', 'Games Played'],
+  gamesStarted: ['GS', 'Games Started'],
+  avgMinutes: ['MIN', 'Minutes Per Game'],
+  avgPoints: ['PTS', 'Points Per Game'],
+  avgOffensiveRebounds: ['OR', 'Offensive Rebounds Per Game'],
+  avgDefensiveRebounds: ['DR', 'Defensive Rebounds Per Game'],
+  avgRebounds: ['REB', 'Rebounds Per Game'],
+  avgAssists: ['AST', 'Assists Per Game'],
+  avgSteals: ['STL', 'Steals Per Game'],
+  avgBlocks: ['BLK', 'Blocks Per Game'],
+  avgTurnovers: ['TO', 'Turnovers Per Game'],
+  avgFouls: ['PF', 'Fouls Per Game'],
+  assistTurnoverRatio: ['AST/TO', 'Assist To Turnover Ratio'],
+};
+
+const shootingDisplayMap = {
+  avgFieldGoalsMade: ['FGM', 'Average Field Goals Made'],
+  avgFieldGoalsAttempted: ['FGA', 'Average Field Goals Attempted'],
+  fieldGoalPct: ['FG%', 'Field Goal Percentage'],
+  avgThreePointFieldGoalsMade: ['3PM', 'Average 3-Point Field Goals Made'],
+  avgThreePointFieldGoalsAttempted: ['3PA', 'Average 3-Point Field Goals Attempted'],
+  threePointPct: ['3P%', '3-Point Field Goal Percentage'],
+  avgFreeThrowsMade: ['FTM', 'Average Free Throws Made'],
+  avgFreeThrowsAttempted: ['FTA', 'Average Free Throws Attempted'],
+  freeThrowPct: ['FT%', 'Free Throw Percentage'],
+  avgTwoPointFieldGoalsMade: ['2PM', '2-Point Field Goals Made Per Game'],
+  avgTwoPointFieldGoalsAttempted: ['2PA', '2-Point Field Goals Attempted Per Game'],
+  twoPointFieldGoalPct: ['2P%', '2-Point Field Goal Percentage'],
+  scoringEfficiency: ['SC-EFF', 'Scoring Efficiency'],
+  shootingEfficiency: ['SH-EFF', 'Shooting Efficiency'],
+};
+
 function TeamRoster() {
   const { team } = useParams();
   const navigate = useNavigate();
@@ -75,29 +108,41 @@ function TeamRoster() {
       <h2>Team Averages</h2>
       {stats?.teamTotals && (
         <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
-          <thead>
-            <tr>{Object.keys(stats.teamTotals).map(key => <th key={key}>{key}</th>)}</tr>
-          </thead>
-          <tbody>
+            <thead>
+            <tr>
+                {Object.keys(stats.teamTotals).map(key => {
+                    const [label, title] = statDisplayMap[key] || shootingDisplayMap[key] || [key, ''];
+                    return <th key={key} title={title}>{label}</th>;
+                })}
+            </tr>
+
+            </thead>
+            <tbody>
             <tr>{Object.values(stats.teamTotals).map((val, i) => <td key={i}>{val}</td>)}</tr>
-          </tbody>
+            </tbody>
         </table>
       )}
 
-      {/* Player Stats */}
-      <h2>Player Stats – All Splits</h2>
+        {/* Player Stats */}
+        <h2>Player Stats – All Splits</h2>
       {stats?.playerStats && (
         <>
           <h3>Player Stats</h3>
           <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
-            <thead>
-              <tr><th>NAME</th>{statCategories.map(cat => <th key={cat}>{cat.toUpperCase()}</th>)}</tr>
-            </thead>
-            <tbody>
+              <thead>
+              <tr>
+                  <th>Name</th>
+                  {statCategories.map(cat => {
+                      const [label, title] = statDisplayMap[cat] || [cat, ''];
+                      return <th key={cat} title={title}>{label}</th>;
+                  })}
+              </tr>
+              </thead>
+              <tbody>
               {Object.entries(stats.playerStats).map(([name, stat]) => (
-                <tr key={name}>
-                  <td>{name}</td>
-                  {statCategories.map(cat => <td key={cat}>{stat[cat]}</td>)}
+                  <tr key={name}>
+                      <td>{name}</td>
+                      {statCategories.map(cat => <td key={cat}>{stat[cat]}</td>)}
                 </tr>
               ))}
             </tbody>
@@ -105,14 +150,20 @@ function TeamRoster() {
 
           <h3>Shooting Stats</h3>
           <table border="1" cellPadding={6} style={{ borderCollapse: 'collapse', width: '100%' }}>
-            <thead>
-              <tr><th>NAME</th>{shootingCategories.map(cat => <th key={cat}>{cat.toUpperCase()}</th>)}</tr>
-            </thead>
-            <tbody>
+              <thead>
+              <tr>
+                  <th>Name</th>
+                  {shootingCategories.map(cat => {
+                      const [label, title] = shootingDisplayMap[cat] || [cat, ''];
+                      return <th key={cat} title={title}>{label}</th>;
+                  })}
+              </tr>
+              </thead>
+              <tbody>
               {Object.entries(stats.playerStats).map(([name, stat]) => (
-                <tr key={name}>
-                  <td>{name}</td>
-                  {shootingCategories.map(cat => <td key={cat}>{stat[cat]}</td>)}
+                  <tr key={name}>
+                      <td>{name}</td>
+                      {shootingCategories.map(cat => <td key={cat}>{stat[cat]}</td>)}
                 </tr>
               ))}
             </tbody>

@@ -1,0 +1,394 @@
+{
+  "round_1": [
+    {
+      "pick": 1,
+      "team": "Dallas Mavericks",
+      "from": null
+    },
+    {
+      "pick": 2,
+      "team": "San Antonio Spurs",
+      "from": null
+    },
+    {
+      "pick": 3,
+      "team": "Philadelphia 76ers",
+      "from": null
+    },
+    {
+      "pick": 4,
+      "team": "Charlotte Hornets",
+      "from": null
+    },
+    {
+      "pick": 5,
+      "team": "Utah Jazz",
+      "from": null
+    },
+    {
+      "pick": 6,
+      "team": "Washington Wizards",
+      "from": null
+    },
+    {
+      "pick": 7,
+      "team": "New Orleans Pelicans",
+      "from": null
+    },
+    {
+      "pick": 8,
+      "team": "Brooklyn Nets",
+      "from": null
+    },
+    {
+      "pick": 9,
+      "team": "Toronto Raptors",
+      "from": null
+    },
+    {
+      "pick": 10,
+      "team": "Houston Rockets",
+      "from": [
+        "Phoenix",
+        "Brooklyn"
+      ]
+    },
+    {
+      "pick": 11,
+      "team": "Portland Trail Blazers",
+      "from": null
+    },
+    {
+      "pick": 12,
+      "team": "Chicago Bulls",
+      "from": null
+    },
+    {
+      "pick": 13,
+      "team": "Atlanta Hawks",
+      "from": [
+        "Sacramento"
+      ]
+    },
+    {
+      "pick": 14,
+      "team": "San Antonio Spurs",
+      "from": [
+        "Atlanta"
+      ]
+    },
+    {
+      "pick": 15,
+      "team": "Oklahoma City Thunder",
+      "from": [
+        "Miami",
+        "LA Clippers"
+      ]
+    },
+    {
+      "pick": 16,
+      "team": "Orlando Magic",
+      "from": null
+    },
+    {
+      "pick": 17,
+      "team": "Minnesota Timberwolves",
+      "from": [
+        "Detroit",
+        "NYK, OKC, HOU"
+      ]
+    },
+    {
+      "pick": 18,
+      "team": "Washington Wizards",
+      "from": [
+        "Memphis"
+      ]
+    },
+    {
+      "pick": 19,
+      "team": "Brooklyn Nets",
+      "from": [
+        "Milwaukee",
+        "NYK, DET, POR, NOP"
+      ]
+    },
+    {
+      "pick": 20,
+      "team": "Miami Heat",
+      "from": [
+        "Golden State"
+      ]
+    },
+    {
+      "pick": 21,
+      "team": "Utah Jazz",
+      "from": [
+        "Minnesota"
+      ]
+    },
+    {
+      "pick": 22,
+      "team": "Atlanta Hawks",
+      "from": [
+        "LA Lakers",
+        "New Orleans"
+      ]
+    },
+    {
+      "pick": 23,
+      "team": "Indiana Pacers",
+      "from": null
+    },
+    {
+      "pick": 24,
+      "team": "Oklahoma City Thunder",
+      "from": [
+        "LA Clippers"
+      ]
+    },
+    {
+      "pick": 25,
+      "team": "Orlando Magic",
+      "from": [
+        "Denver"
+      ]
+    },
+    {
+      "pick": 26,
+      "team": "Brooklyn Nets",
+      "from": [
+        "New York Knicks"
+      ]
+    },
+    {
+      "pick": 27,
+      "team": "Brooklyn Nets",
+      "from": [
+        "Houston"
+      ]
+    },
+    {
+      "pick": 28,
+      "team": "Boston Celtics",
+      "from": null
+    },
+    {
+      "pick": 29,
+      "team": "Phoenix Suns",
+      "from": [
+        "Cleveland",
+        "Utah"
+      ]
+    },
+    {
+      "pick": 30,
+      "team": "LA Clippers",
+      "from": [
+        "Oklahoma City"
+      ]
+    }
+  ],
+  "round_2": [
+    {
+      "pick": 31,
+      "team": "Minnesota Timberwolves",
+      "from": [
+        "Utah"
+      ]
+    },
+    {
+      "pick": 32,
+      "team": "Boston Celtics",
+      "from": [
+        "Washington",
+        "Detroit and Brooklyn"
+      ]
+    },
+    {
+      "pick": 33,
+      "team": "Charlotte Hornets",
+      "from": null
+    },
+    {
+      "pick": 34,
+      "team": "Charlotte Hornets",
+      "from": [
+        "New Orleans",
+        "SA, PHX, MEM"
+      ]
+    },
+    {
+      "pick": 35,
+      "team": "Philadelphia 76ers",
+      "from": null
+    },
+    {
+      "pick": 36,
+      "team": "Brooklyn Nets",
+      "from": null
+    },
+    {
+      "pick": 37,
+      "team": "Detroit Pistons",
+      "from": [
+        "Toronto",
+        "Dallas and San Antonio"
+      ]
+    },
+    {
+      "pick": 38,
+      "team": "San Antonio Spurs",
+      "from": null
+    },
+    {
+      "pick": 39,
+      "team": "Toronto Raptors",
+      "from": [
+        "Portland",
+        "Sacramento"
+      ]
+    },
+    {
+      "pick": 40,
+      "team": "Washington Wizards",
+      "from": [
+        "Phoenix"
+      ]
+    },
+    {
+      "pick": 41,
+      "team": "Golden State Warriors",
+      "from": [
+        "Miami",
+        "Brooklyn and Indiana"
+      ]
+    },
+    {
+      "pick": 42,
+      "team": "Sacramento Kings",
+      "from": [
+        "Chicago",
+        "San Antonio"
+      ]
+    },
+    {
+      "pick": 43,
+      "team": "Utah Jazz",
+      "from": [
+        "Dallas"
+      ]
+    },
+    {
+      "pick": 44,
+      "team": "Oklahoma City Thunder",
+      "from": [
+        "Atlanta"
+      ]
+    },
+    {
+      "pick": 45,
+      "team": "Chicago Bulls",
+      "from": [
+        "Sacramento"
+      ]
+    },
+    {
+      "pick": 46,
+      "team": "Orlando Magic",
+      "from": null
+    },
+    {
+      "pick": 47,
+      "team": "Milwaukee Bucks",
+      "from": [
+        "Detroit",
+        "Washington"
+      ]
+    },
+    {
+      "pick": 48,
+      "team": "Memphis Grizzlies",
+      "from": [
+        "Golden State",
+        "Washington and Brooklyn"
+      ]
+    },
+    {
+      "pick": 49,
+      "team": "Cleveland Cavaliers",
+      "from": [
+        "Milwaukee"
+      ]
+    },
+    {
+      "pick": 50,
+      "team": "New York Knicks",
+      "from": [
+        "Memphis",
+        "OKC and Boston"
+      ]
+    },
+    {
+      "pick": 51,
+      "team": "LA Clippers",
+      "from": [
+        "Minnesota",
+        "Atlanta and Houston"
+      ]
+    },
+    {
+      "pick": 52,
+      "team": "Phoenix Suns",
+      "from": [
+        "Denver",
+        "Charlotte and Minnesota"
+      ]
+    },
+    {
+      "pick": 53,
+      "team": "Utah Jazz",
+      "from": [
+        "LA Clippers",
+        "LA Lakers"
+      ]
+    },
+    {
+      "pick": 54,
+      "team": "Indiana Pacers",
+      "from": null
+    },
+    {
+      "pick": 55,
+      "team": "Los Angeles Lakers",
+      "from": null
+    },
+    {
+      "pick": 56,
+      "team": "Memphis Grizzlies",
+      "from": [
+        "Houston"
+      ]
+    },
+    {
+      "pick": 57,
+      "team": "Orlando Magic",
+      "from": [
+        "Boston"
+      ]
+    },
+    {
+      "pick": 58,
+      "team": "Cleveland Cavaliers",
+      "from": null
+    },
+    {
+      "pick": 59,
+      "team": "Houston Rockets",
+      "from": [
+        "Oklahoma City",
+        "Atlanta"
+      ]
+    }
+  ]
+}
