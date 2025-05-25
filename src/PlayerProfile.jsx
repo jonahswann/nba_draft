@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+
 
 const customHeadshotOverrides = new Set([
   "ACE_BAILEY", "ALEX_KARABAN", "BEN_SARAF", "CARTER_BRYANT", "CHAZZ_LANIER",
@@ -46,6 +47,26 @@ function PlayerProfile({ player, rankings, measurements, gameLogs, seasonStats, 
   const playerMeas = measurements.find(m => m.playerId === player.playerId);
   const fullName = `${player.firstName} ${player.lastName}`;
   const [imageErrors, setImageErrors] = useState({});
+  const [report, setReport] = useState('');
+  useEffect(() => {
+  fetch(`http://localhost:4000/reports/${player.playerId}`)
+    .then(res => res.json())
+    .then(setReport)
+    .catch(err => console.error('Failed to fetch report:', err));
+}, [player.playerId]);
+  const handleReportChange = (e) => {
+  const newReport = e.target.value;
+  setReport(newReport);
+
+  fetch(`http://localhost:4000/reports/${player.playerId}`, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ report: newReport }),
+  }).catch(err => console.error('Failed to save report:', err));
+};
+
+
+
 
 
   const playerGamesBySeason = gameLogs[fullName] || {};
@@ -144,7 +165,22 @@ const measurementLabels = {
           ) : (
               <p>No scout rankings available.</p>
           )}
-
+          <h3>Scouting Report</h3>
+          <textarea
+              value={report}
+              onChange={handleReportChange}
+              placeholder="Write your scouting report..."
+              style={{
+                  width: '100%',
+                  height: '150px',
+                  padding: '0.5rem',
+                  fontSize: '1rem',
+                  fontFamily: 'inherit',
+                  borderRadius: '6px',
+                  border: '1px solid #ccc',
+                  marginBottom: '2rem'
+              }}
+          />
 
           <h3
               style={{cursor: 'pointer', userSelect: 'none', color: '#007bff'}}
