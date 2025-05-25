@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 const teams = [
   "76ers", "BLAZERS", "BUCKS", "BULLS", "CAVALIERS", "CLIPPERS", "GRIZZLIES",
   "HAWKS", "HEAT", "HORNETS", "JAZZ", "KINGS", "KNICKS", "LAKERS", "MAGIC",
-  "MAVS", "NUGGETS", "PACERS", "PELICANS", "PISTONS", "RAPTORS", "ROCKETS",
+  "MAVS", "NETS", "NUGGETS", "PACERS", "PELICANS", "PISTONS", "RAPTORS", "ROCKETS",
   "SPURS", "SUNS", "THUNDER", "TIMBERWOLVES", "WARRIORS", "WIZARDS"
 ];
 
